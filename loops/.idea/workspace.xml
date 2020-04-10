@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47fa2423-bcd2-4001-97cb-82217023e7f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aDHnJXEjGLPes8tHUxdTyLBQjX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Strings17">
+    <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Closures" />
+      <module name="loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Currying" />
+      <module name="loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions3HigherOrder" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Functions3HigherOrder" />
+      <module name="loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsPartiallyApplied" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsPartiallyApplied" />
+      <module name="loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings17" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Strings17" />
+      <module name="loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Strings17" />
+        <item itemvalue="Application.Currying" />
+        <item itemvalue="Application.Closures" />
+        <item itemvalue="Application.FunctionsPartiallyApplied" />
+        <item itemvalue="Application.Functions3HigherOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="loops" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="loops [file:/C:/Users/Murray2/Documents/DeepLearning/_Scala/loops/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="loops-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3172526818683" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3652219880" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47fa2423-bcd2-4001-97cb-82217023e7f7" name="Default Changelist" comment="" />
+      <created>1586263409325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586263409325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2641" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586270472181">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2641" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586270472181" />
+    <state width="889" height="952" key="GridCell.Tab.0.bottom" timestamp="1586443809035">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state width="889" height="952" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
+    <state width="889" height="952" key="GridCell.Tab.0.center" timestamp="1586443809035">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state width="889" height="952" key="GridCell.Tab.0.center/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
+    <state width="889" height="952" key="GridCell.Tab.0.left" timestamp="1586443809035">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state width="889" height="952" key="GridCell.Tab.0.left/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
+    <state width="889" height="952" key="GridCell.Tab.0.right" timestamp="1586443809035">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state width="889" height="952" key="GridCell.Tab.0.right/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
+  </component>
+</project>

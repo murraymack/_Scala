@@ -1,0 +1,3 @@
+Array(1).sameElements(Array(1))
+Instead of Array(1) == Array(1)
+
