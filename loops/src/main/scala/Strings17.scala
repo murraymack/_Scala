@@ -11,7 +11,7 @@ object Strings17 {
     println(str1.concat(str2))
 
     // Formatting
-    val result = printf("%d -- %f -- %s", num1, num2, num1+num2)
+    val result = printf("%d -- %f -- %s", num1, num2, str1)
     println(result)
     println("(%d -- %f -- %s)".format(num1, num2, str1))
   }

@@ -22,10 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aDHnJXEjGLPes8tHUxdTyLBQjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,37 +38,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Strings17">
-    <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Closures" />
+  <component name="RunManager" selected="Application._25_ReduceFoldScan">
+    <configuration name="_21_ScalaMaps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_21_ScalaMaps" />
       <module name="loops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Currying" />
+    <configuration name="_22_ScalaTuples" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_22_ScalaTuples" />
       <module name="loops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions3HigherOrder" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Functions3HigherOrder" />
+    <configuration name="_23_ScalaOptionsType" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_23_ScalaOptionsType" />
       <module name="loops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsPartiallyApplied" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsPartiallyApplied" />
+    <configuration name="_24_Mapping" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_24_Mapping" />
       <module name="loops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings17" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Strings17" />
+    <configuration name="_25_ReduceFoldScan" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_25_ReduceFoldScan" />
       <module name="loops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Strings17" />
-        <item itemvalue="Application.Currying" />
-        <item itemvalue="Application.Closures" />
-        <item itemvalue="Application.FunctionsPartiallyApplied" />
-        <item itemvalue="Application.Functions3HigherOrder" />
+        <item itemvalue="Application._25_ReduceFoldScan" />
+        <item itemvalue="Application._24_Mapping" />
+        <item itemvalue="Application._23_ScalaOptionsType" />
+        <item itemvalue="Application._22_ScalaTuples" />
+        <item itemvalue="Application._21_ScalaMaps" />
       </list>
     </recent_temporary>
   </component>
@@ -136,21 +140,29 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2641" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586270472181" />
-    <state width="889" height="952" key="GridCell.Tab.0.bottom" timestamp="1586443809035">
+    <state width="857" height="629" key="GridCell.Tab.0.bottom" timestamp="1586966977276">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="889" height="952" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
-    <state width="889" height="952" key="GridCell.Tab.0.center" timestamp="1586443809035">
+    <state width="857" height="629" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586966977276" />
+    <state width="857" height="629" key="GridCell.Tab.0.center" timestamp="1586966977276">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="889" height="952" key="GridCell.Tab.0.center/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
-    <state width="889" height="952" key="GridCell.Tab.0.left" timestamp="1586443809035">
+    <state width="857" height="629" key="GridCell.Tab.0.center/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586966977276" />
+    <state width="857" height="629" key="GridCell.Tab.0.left" timestamp="1586966977275">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="889" height="952" key="GridCell.Tab.0.left/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
-    <state width="889" height="952" key="GridCell.Tab.0.right" timestamp="1586443809035">
+    <state width="857" height="629" key="GridCell.Tab.0.left/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586966977275" />
+    <state width="857" height="629" key="GridCell.Tab.0.right" timestamp="1586966977276">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="889" height="952" key="GridCell.Tab.0.right/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586443809035" />
+    <state width="857" height="629" key="GridCell.Tab.0.right/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586966977276" />
+    <state x="2607" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586962794350">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2607" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586962794350" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586879413327">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1858.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1586879413327" />
   </component>
 </project>
